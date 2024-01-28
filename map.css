@@ -1,3 +1,8 @@
+body {
+  background-image: url("map.png");
+  background-position: center;
+  background-size: cover;
+}
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
