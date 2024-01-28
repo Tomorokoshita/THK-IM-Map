@@ -1,19 +1,8 @@
-
-#mydiv {
-    position: absolute;
-    cursor: grab;
-    z-index: -1;
-    zoom: 300%;
-  }
-
-  #myImg {
-  position: absolute;
-  cursor: pointer;
-  transition: 0.3s;
+.map {
+    position: fixed;
+    width: 100%;
+    height: 100%;
 }
-#mydiv:active {cursor: grabbing;}
-#myImg:hover {opacity: 0.7;}
-
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
